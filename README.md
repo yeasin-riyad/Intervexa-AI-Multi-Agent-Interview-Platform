@@ -80,6 +80,25 @@ Our goal is to make interview preparation smarter, more personalised, and more a
 
 ---
 
+
+---
+
+## 🔄 AI Workflow Diagram
+
+The following diagram illustrates how IntervexaAI
+processes user requests through its specialized AI agents.
+
+<p align="center">
+  <img
+    src="docs/diagrams/Intervexa.png"
+    alt="IntervexaAI AI Workflow Diagram"
+    width="100%"
+  />
+</p>
+
+---
+
+
 ## 🖼️ Screenshots
 
 > Screenshots are placeholders. Replace them with actual application screenshots when available.
